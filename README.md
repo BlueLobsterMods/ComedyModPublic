@@ -1,5 +1,7 @@
 # ComedyModPublic
 
+Basic version of a mod menu for testing purposes.
+
 ## Features
 
 - Logging Unity Engine activity
