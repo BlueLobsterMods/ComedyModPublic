@@ -2,6 +2,8 @@
 
 Basic version of a mod menu for testing purposes.
 
+To report an issue or request a new feature, create an [issue](https://github.com/BlueLobsterMods/ComedyModPublic/issues).
+
 ## Features
 
 - Logging Unity Engine activity
