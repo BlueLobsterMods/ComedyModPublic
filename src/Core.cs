@@ -2,7 +2,7 @@
 using ComedyModPublic;
 
 // MelonLoader-specific properties.
-[assembly: MelonInfo(typeof(ComedyModPublicCore), "ComedyModPublic", "0.1", "Blue Lobster Mods")]
+[assembly: MelonInfo(typeof(ComedyModPublicCore), "ComedyModPublic", "0.4", "Blue Lobster Mods")]
 [assembly: MelonGame("Lighthouse Games Studio", "Comedy Night")]
 [assembly: MelonColor(255, 255, 0, 0)]
 
@@ -21,6 +21,7 @@ namespace ComedyModPublic
         public override void OnSceneWasLoaded(int buildIndex, string sceneName)
         {
             Logging.LogSceneLoad(sceneName, buildIndex);
+            Performance.OptimizeScene(sceneName);
         }
     }
 }
