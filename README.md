@@ -1,6 +1,6 @@
 # ComedyModPublic
 
-Basic version of a mod menu for testing purposes.
+ComedyModPublic is a mod menu for Comedy Night. The goal is to solve most of the problems that currently exist in the game and add useful quality-of-life features.
 
 To report a bug or request a new feature, create an [issue](https://github.com/BlueLobsterMods/ComedyModPublic/issues).
 
@@ -8,6 +8,7 @@ To report a bug or request a new feature, create an [issue](https://github.com/B
 
 - Logging Unity Engine activity
 - Framerate cap
+- Performance optimizations
 
 ## Installation
 
@@ -16,5 +17,11 @@ To report a bug or request a new feature, create an [issue](https://github.com/B
 3. Run the MelonLoader installer and select Comedy Night from the list.
 4. Download [ComedyModPublic](https://github.com/BlueLobsterMods/ComedyModPublic/releases).
 5. Move `ComedyModPublic.dll` to the `ComedyNight\Mods` folder.
+
+## Why 2 versions?
+
+Early into this project it was understood that it would be irresponsible to publicly release every single feature that had been achieved internally. If everyone were able to ban everyone from all the rooms, the game would quickly become unplayable.
+
+The private build cannot be purchased. It is given only to developers for development purposes. Currently, only 3 people have access to it.
 
 ## [License](https://github.com/BlueLobsterMods/ComedyModPublic/blob/main/LICENSE)
