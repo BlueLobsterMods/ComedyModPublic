@@ -8,6 +8,6 @@
 [assembly: AssemblyCopyright("© Blue Lobster Mods")]
 [assembly: AssemblyCulture("en-US")]
 [assembly: NeutralResourcesLanguage("en-US")]
-[assembly: AssemblyVersion("0.1")]
-[assembly: AssemblyFileVersion("0.1")]
+[assembly: AssemblyVersion("0.4")]
+[assembly: AssemblyFileVersion("0.4")]
 [assembly: ComVisible(false)]
