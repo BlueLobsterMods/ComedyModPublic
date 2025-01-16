@@ -1,6 +1,6 @@
 # ComedyModPublic
 
-ComedyModPublic is a mod menu for Comedy Night. The goal is to solve most of the problems that currently exist in the game and add useful quality-of-life features.
+ComedyMod is a mod menu for Comedy Night. The goal is to solve most of the problems that currently exist in the game and add useful quality-of-life features.
 
 To report a bug or request a new feature, create an [issue](https://github.com/BlueLobsterMods/ComedyModPublic/issues).
 
