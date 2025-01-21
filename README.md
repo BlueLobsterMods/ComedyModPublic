@@ -16,7 +16,7 @@ To report a bug or request a new feature, create an [issue](https://github.com/B
 2. Download [MelonLoader](https://github.com/LavaGang/MelonLoader.Installer/releases/latest/download/MelonLoader.Installer.exe).
 3. Run the MelonLoader installer and select Comedy Night from the list.
 4. Download [ComedyModPublic](https://github.com/BlueLobsterMods/ComedyModPublic/releases).
-5. Move `ComedyModPublic.dll` to the `ComedyNight\Mods` folder.
+5. Move `ComedyModPublic.dll` to the `Comedy Night\Mods` folder.
 
 ## Why 2 versions?
 
