@@ -18,6 +18,10 @@ To report a bug or request a new feature, create an [issue](https://github.com/B
 4. Download [ComedyModPublic](https://github.com/BlueLobsterMods/ComedyModPublic/releases).
 5. Move `ComedyModPublic.dll` to the `Comedy Night\Mods` folder.
 
+## Uninstallation
+
+Simply delete `Comedy Night\Mods\ComedyModPublic.dll` and the `MelonLoader\Logs` folder.
+
 ## Why 2 versions?
 
 Early into this project it was understood that it would be irresponsible to publicly release every single feature that had been achieved internally. If everyone were able to ban everyone from all the rooms, the game would quickly become unplayable.
