@@ -20,6 +20,8 @@ You may not redistribute the source code of this product by any means other than
 
 While using ComedyModPublic, the software may automatically collect some information about your computer, network connection, and/or Steam Community account. This data is strictly processed locally by the software and is automatically deleted after the software is closed.
 
+MelonLoader also logs the activities of Unity Engine and any active mods, including ComedyModPublic, in the MelonLoader\Logs folder. These files must be deleted manually but we will make an optional tool to automatically remove them in the future.
+
 5. Disclaimer
 
 Comedy Night is a trademark of Lighthouse Games Studio and solely mentioned for the sake of descriptivity. Mention of it does not apply any affiliation with or endorsement by Lighthouse Games Studio.
