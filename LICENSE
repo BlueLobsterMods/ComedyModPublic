@@ -22,6 +22,8 @@ While using ComedyModPublic, the software may automatically collect some informa
 
 MelonLoader also logs the activities of Unity Engine and any active mods, including ComedyModPublic, in the MelonLoader\Logs folder. These files must be deleted manually but we will make an optional tool to automatically remove them in the future.
 
-5. Disclaimer
+5. Disclaimers
 
-Comedy Night is a trademark of Lighthouse Games Studio and solely mentioned for the sake of descriptivity. Mention of it does not apply any affiliation with or endorsement by Lighthouse Games Studio.
+Comedy Night is a trademark of Lighthouse Games Studio and solely mentioned for the sake of descriptivity. Mention of it does not imply any affiliation with or endorsement by Lighthouse Games Studio.
+
+Unity Engine is a trademark of Unity Technologies and solely mentioned for the sake of descriptivity. Mention of it does not imply any affiliation with or endorsement by Unity Technologies.
