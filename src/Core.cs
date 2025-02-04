@@ -2,7 +2,7 @@
 using ComedyModPublic;
 
 // MelonLoader-specific properties.
-[assembly: MelonInfo(typeof(ComedyModPublicCore), "ComedyModPublic", "0.4", "Blue Lobster Mods")]
+[assembly: MelonInfo(typeof(ComedyModPublicCore), "ComedyModPublic", "0.4", "Blue Lobster Software")]
 [assembly: MelonGame("Lighthouse Games Studio", "Comedy Night")]
 [assembly: MelonColor(255, 255, 0, 0)]
 
