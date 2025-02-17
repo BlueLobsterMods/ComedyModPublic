@@ -1,14 +1,8 @@
 # ComedyModPublic
 
-ComedyMod is a mod menu for Comedy Night. The goal is to solve most of the problems that currently exist in the game and add useful quality-of-life features.
+ComedyModPublic is a mod menu for Comedy Night. The goal is to solve most of the problems that currently exist in the game and add useful quality-of-life features.
 
 To report a bug or request a new feature, create an [issue](https://github.com/BlueLobsterSoftware/ComedyModPublic/issues).
-
-## Features
-
-- Logging Unity Engine activity
-- Framerate cap
-- Performance optimizations
 
 ## Installation
 
@@ -21,11 +15,5 @@ To report a bug or request a new feature, create an [issue](https://github.com/B
 ## Uninstallation
 
 Simply delete `Comedy Night\Mods\ComedyModPublic.dll` and the `MelonLoader\Logs` folder.
-
-## Why 2 versions?
-
-Early into this project it was understood that it would be irresponsible to publicly release every single feature that had been achieved internally. If everyone were able to ban everyone from all the rooms, the game would quickly become unplayable.
-
-The private build cannot be purchased. It is given only to developers for development purposes. Currently, only 3 people have access to it.
 
 ## [License](https://github.com/BlueLobsterSoftware/ComedyModPublic/blob/main/LICENSE)
